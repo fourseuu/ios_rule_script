@@ -8,6 +8,7 @@
 # PROCESS-NAME: 1
 # TOTAL: 39
 payload:
+  - DOMAIN,789.123456.al
   - DOMAIN,emby.enjoyit.eu.org
   - DOMAIN-SUFFIX,agahk1.jmsooo.com
   - DOMAIN-SUFFIX,agajp1.jmsooo.com
